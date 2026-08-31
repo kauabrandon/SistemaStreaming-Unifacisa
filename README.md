@@ -2,8 +2,8 @@
 
 Projeto desenvolvido para a disciplina de Programação Orientada a Objetos da UNIFACISA.
 
-O sistema simula uma plataforma de streaming capaz de gerenciar usuários, catálogo de conteúdos, playlists, reprodução de mídias e downloads, aplicando os principais conceitos de Programação Orientada a Objetos em Java.
-Integrantes do grupo: Juan Menezes, Kauã Brandon, Carlos Arthur, Davi Estevão.
+O sistema roda em terminal e simula uma plataforma de streaming capaz de gerenciar usuários, catálogo de conteúdos, playlists, reprodução de mídias e downloads, aplicando os principais conceitos básicos de Programação Orientada a Objetos em Java.
+Integrantes do grupo: Kauã Brandon, Juan Menezes, Carlos Arthur, Davi Estevão.
 
 ---
 
